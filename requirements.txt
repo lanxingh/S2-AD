@@ -1,0 +1,15 @@
+torch
+torchvision
+torchaudio
+opencv-python
+opencv-contrib-python
+kornia
+tqdm
+ftfy
+regex
+scikit-learn
+tifffile
+numpy
+torch
+pillow
+setuptools == 67.6.1
